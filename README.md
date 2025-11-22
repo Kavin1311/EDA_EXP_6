@@ -1,4 +1,4 @@
-<img width="1024" height="406" alt="image" src="https://github.com/user-attachments/assets/5bfe14e1-5fca-4fbd-83e9-9990c8a2f73e" /># EDA_EXP_6
+# EDA_EXP_6
 # NAME:T.KAVINAJAI
 # REGISTER NO:212223100020
 **Aim**
@@ -67,7 +67,7 @@ print(clas)
 <img width="1145" height="916" alt="image" src="https://github.com/user-attachments/assets/e3646de2-1e61-4e18-853a-e50425eed70f" />
 <img width="1179" height="918" alt="image" src="https://github.com/user-attachments/assets/15226b98-51d5-4850-a267-5ba25c75021e" />
 <img width="1218" height="286" alt="image" src="https://github.com/user-attachments/assets/a4807828-a91c-4516-9c47-76b58b2773a8" />
-
+<img width="1024" height="406" alt="image" src="https://github.com/user-attachments/assets/5bfe14e1-5fca-4fbd-83e9-9990c8a2f73e" />
 **Result**
 
 THUS WINE ANALYSIS IS DONE SUCCESSFULLY
